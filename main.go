@@ -8,5 +8,5 @@ import (
 )
 
 func main() {
-	fmt.Println(f3de8292c626470d94bea7bcec9c6e18.Lower, dfaf18ff9f58481bbab4c26ca49ad74e.Upper)
+	fmt.Println(f3de8292c626470d94bea7bcec9c6e18.Lower, dfaf18ff9f58481bbab4c26ca49ad74e.Upper, f3de8292c626470d94bea7bcec9c6e18.New)
 }
